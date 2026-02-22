@@ -1,4 +1,4 @@
-package net.Abdou.net.Abdou.ext;
+package net.Abdou.ext;
 
 import net.Abdou.dao.IDao;
 
