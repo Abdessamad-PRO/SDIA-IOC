@@ -1,5 +1,8 @@
 package net.Abdou.dao;
 
+import org.springframework.stereotype.Component;
+
+@Component("d")
 public class DaoImpl implements IDao {
     @java.lang.Override
     public double getData() {
