@@ -17,6 +17,6 @@ public class MetierImpl implements IMetier {
     public double calcul() {
         double t = dao.getData();
         double res = t*12*Math.PI/2 * Math.cos(t);
-        return t;
+        return res;
     }
 }
