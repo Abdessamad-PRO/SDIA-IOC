@@ -1,2 +1,2 @@
-net.Abdou.dao.DaoImpl
+net.Abdou.ext.DaoImplV2
 net.Abdou.metier.MetierImpl
